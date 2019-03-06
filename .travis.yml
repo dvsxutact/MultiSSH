@@ -1,3 +1,4 @@
 language: csharp
+solution: MultiSsh.sln
 mono:
   - latest
